@@ -193,3 +193,11 @@ body {
     border-radius: 10px;
     font-size: 1.2em;
 }
+
+.disqus-section {
+    margin-top: 80px;
+    margin-bottom: 50px;
+    padding: 20px;
+    background-color: var(--secondary-bg-color);
+    border-radius: 20px;
+}
